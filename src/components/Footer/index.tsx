@@ -12,7 +12,7 @@ export const Footer = () => {
               backgroundColor: '#808080',  
             }}
         >
-            <Typography variant="subtitle1">Copyright © 2022 - by Ricardo</Typography>
+            <Typography variant="subtitle1">Copyright © 2022 - Ricardo Machado</Typography>
         </Box>
     ); 
 }

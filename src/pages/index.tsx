@@ -35,7 +35,7 @@ const Home = () => {
             <GitHubIcon fontSize="large" sx={{ marginRight: 2 }}/>
           </ButtonLink>
 
-          <ButtonLink title="Instagram" link="https://www.instagram.com/ricardo.machado.dev/">
+          <ButtonLink title="Instagram" link="https://www.instagram.com/ric_mmachado/">
             <InstagramIcon fontSize="large" sx={{ marginRight: 2 }}/>
           </ButtonLink>
           
